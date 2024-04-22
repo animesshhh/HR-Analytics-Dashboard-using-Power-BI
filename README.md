@@ -54,7 +54,9 @@ The dataset is initially provided in csv format and is used as the source for th
 
 ## Power BI
 
-### Attrition Analysis
+### Attrition Analysis  
+
+![Screenshot 2024-04-22 042245](https://github.com/animesshhh/HR-Analytics-Dashboard-using-Power-BI/assets/97463808/08609707-c43e-4a4d-8a98-57f30ec9ae8a)
 
 1. **Number of Employees**
 
