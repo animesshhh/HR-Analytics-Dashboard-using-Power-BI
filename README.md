@@ -211,7 +211,12 @@ The dataset is initially provided in csv format and is used as the source for th
   * Helps in understanding departmental dynamics and potential areas for improvement.
   * Provides insights for implementing targeted interventions to enhance job satisfaction within specific departments.
 
+
+
 ### Employee Performance and Compensation Analysis
+
+![Screenshot 2024-04-23 014547](https://github.com/animesshhh/HR-Analytics-Dashboard-using-Power-BI/assets/97463808/a599d030-49fc-4627-9221-f4cab769f66f)
+
 
 1. **Average Monthly Income**
 
