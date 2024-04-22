@@ -150,6 +150,7 @@ The dataset is initially provided in csv format and is used as the source for th
 
 ### Employee Satisfaction and Performance Analysis
 
+![Screenshot 2024-04-23 014530](https://github.com/animesshhh/HR-Analytics-Dashboard-using-Power-BI/assets/97463808/5ab51ede-2a45-43cf-b6f2-20920167157d)
 
 1. **Average Job Satisfaction**
 
