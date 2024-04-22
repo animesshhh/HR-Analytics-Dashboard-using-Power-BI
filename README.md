@@ -288,6 +288,8 @@ The dataset is initially provided in csv format and is used as the source for th
 
 ### Employee Compensation and Work-Life Balance Analysis
 
+![Screenshot 2024-04-23 014628](https://github.com/animesshhh/HR-Analytics-Dashboard-using-Power-BI/assets/97463808/6287357a-740d-413e-9245-c10ffeae2858)
+
 
 1. **Salary Distribution by Gender**
 
